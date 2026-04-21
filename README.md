@@ -286,15 +286,3 @@ The token expires in **7 days**. No database lookup needed to verify — the sec
 |`tailwindcss`|Utility CSS classes for styling|
 
 ---
-
-## 🧠 Key Concepts Summary
-
-- **MVC Pattern** — Models (data shape), Controllers (logic), Routes (URL mapping)
-- **JWT** — Stateless authentication via signed tokens
-- **bcrypt** — One-way password hashing (can't be reversed)
-- **Context API** — React's built-in global state (no Redux needed)
-- **Axios Interceptors** — Auto-attach token to every request
-- **Protected Routes** — Frontend + backend both guard private data
-- **Mongoose Populate** — Replaces an ID reference with the actual document data (e.g. fills in organizer name from User collection)
-
-That's every layer of the project explained simply. Ask about any specific part and I'll go deeper.
