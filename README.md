@@ -1,6 +1,3 @@
-Let me give you a complete walkthrough of every part of the project.
-
----
 
 ## ⚡ What is Eventrix?
 
